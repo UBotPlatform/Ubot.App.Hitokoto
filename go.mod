@@ -1,4 +1,4 @@
-module ubot.local/app/hitokoto
+module github.com/UBotPlatform/Ubot.App.Hitokoto
 
 go 1.14
 
